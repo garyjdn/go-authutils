@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/service"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
+	"github.com/garyjdn/go-authutils/service"
+	"github.com/garyjdn/go-authutils/types"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 )

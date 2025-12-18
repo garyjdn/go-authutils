@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/google/uuid"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 )
 
 // ServiceAccountManager manages service account tokens and authentication

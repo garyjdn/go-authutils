@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	apperror "github.com/garyjdn/go-apperror"
+	"github.com/garyjdn/go-authutils/service"
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/garyjdn/go-httputils"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/service"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 )
 
 type JWTMiddleware struct {

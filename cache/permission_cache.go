@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/patrickmn/go-cache"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 )
 
 // PermissionCache provides caching for user permissions and site access

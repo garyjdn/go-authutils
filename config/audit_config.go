@@ -4,8 +4,8 @@ import (
 	"os"
 	"strings"
 
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/audit"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
+	"github.com/garyjdn/go-authutils/audit"
+	"github.com/garyjdn/go-authutils/types"
 )
 
 type AuditConfig struct {

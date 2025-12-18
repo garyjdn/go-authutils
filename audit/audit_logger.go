@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/google/uuid"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 )
 
 // Multiple audit logger implementations

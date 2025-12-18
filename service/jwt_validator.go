@@ -6,9 +6,9 @@ import (
 	"time"
 
 	apperror "github.com/garyjdn/go-apperror"
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/patrickmn/go-cache"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 	authv1 "gitlab.jatimprov.go.id/pharosia/proto-auth/v1"
 	"google.golang.org/grpc"
 )

@@ -1,4 +1,4 @@
-module gitlab.jatimprov.go.id/pharosia/auth-utils
+module github.com/garyjdn/go-authutils
 
 go 1.24.0
 
@@ -15,6 +15,7 @@ require (
 )
 
 require (
+	github.com/garyjdn/go-auditlogger v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	golang.org/x/net v0.46.1-0.20251013234738-63d1a5100f82 // indirect

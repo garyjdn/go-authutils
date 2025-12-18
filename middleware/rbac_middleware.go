@@ -6,9 +6,9 @@ import (
 	"net/http"
 
 	apperror "github.com/garyjdn/go-apperror"
+	"github.com/garyjdn/go-authutils/types"
 	"github.com/garyjdn/go-httputils"
 	"github.com/go-chi/chi/v5"
-	"gitlab.jatimprov.go.id/pharosia/auth-utils/types"
 )
 
 type RolePermissionLoader interface {

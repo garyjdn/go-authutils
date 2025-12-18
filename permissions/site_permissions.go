@@ -1,6 +1,6 @@
 package permissions
 
-import "gitlab.jatimprov.go.id/pharosia/auth-utils/types"
+import "github.com/garyjdn/go-authutils/types"
 
 var SitePermissionMatrix = types.RolePermissionMatrix{
 	"owner": {
