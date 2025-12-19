@@ -2,10 +2,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/garyjdn/go-apperror v1.0.1 h1:N2UyoKPL5RgNZRkPvRZAIQk4UI6uMElVaVc87tAFBU8=
 github.com/garyjdn/go-apperror v1.0.1/go.mod h1:HgOZMLmyVCtyfmUZ/EOouxT9Yh3r4T23b0c794IrcCI=
-github.com/garyjdn/go-auditlogger v1.0.0 h1:1QzUHgwJQlql7uWfjLjotWJdqzqwz9tqYdN94qjWLlw=
-github.com/garyjdn/go-auditlogger v1.0.0/go.mod h1:ZBegh2a5pKHhrK5RK9JGo8K3AekaEwNpnrYHRhKgqh4=
-github.com/garyjdn/go-httputils v1.0.1 h1:LffC4710uwuiVLTzD0QULaNlooXCyfYzcSgYdffT4/U=
-github.com/garyjdn/go-httputils v1.0.1/go.mod h1:oSP7KuO99/VwK7uGEPVe9OdC230WFuhUppX3C9EQkM8=
+github.com/garyjdn/go-httputils v1.0.2 h1:6hy8Oz7BPzyMAtQeqBAcDeqtgqRPc34oZW/3D0UtnwY=
+github.com/garyjdn/go-httputils v1.0.2/go.mod h1:oSP7KuO99/VwK7uGEPVe9OdC230WFuhUppX3C9EQkM8=
 github.com/go-chi/chi/v5 v5.2.3 h1:WQIt9uxdsAbgIYgid+BpYc+liqQZGMHRaUwp0JUcvdE=
 github.com/go-chi/chi/v5 v5.2.3/go.mod h1:L2yAIGWB3H+phAw1NxKwWM+7eUH/lU8pOMm5hHcoops=
 github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=

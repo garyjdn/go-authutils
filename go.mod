@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/garyjdn/go-apperror v1.0.1
-	github.com/garyjdn/go-httputils v1.0.1
+	github.com/garyjdn/go-httputils v1.0.2
 	github.com/go-chi/chi/v5 v5.2.3
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/google/uuid v1.6.0
@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	github.com/garyjdn/go-auditlogger v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	golang.org/x/net v0.46.1-0.20251013234738-63d1a5100f82 // indirect
